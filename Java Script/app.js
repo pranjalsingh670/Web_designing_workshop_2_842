@@ -1,0 +1,10 @@
+let name="hello";
+let city="js";
+let sym="id";
+console.log(name+"<br>");
+console.log(city);
+console.log(sym);
+let a=15;
+let b=10;
+let c=a+b;
+console.log(c);
